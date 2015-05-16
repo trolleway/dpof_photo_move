@@ -1,5 +1,7 @@
 # dpof_photo_move
+
 Move your photos in two folders by DPOF file
+
 Скрипт который разложит ваши фотографии на папки в зависимости от отметок DPOF
 
 # Использование
